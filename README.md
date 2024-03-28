@@ -8,7 +8,7 @@ Desktop first .
 ![App Screenshot](screenshot/SCR-20240328-oecv.png)
 
 ## Demo
-[https://lpphoto2024.netlify.app/](https://loginlandingpage.netlify.app/)
+[https://loginlandingpage.netlify.app/](https://loginlandingpage.netlify.app/)
 
 ## Note - Keep in mind
 REMEMBER THAT IF YOUR LAYOUT IS 
