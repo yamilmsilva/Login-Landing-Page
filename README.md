@@ -1,7 +1,7 @@
-# Acme-Web-Solition-Landing-Page
+# Login-Landing-Page
 
 Small Landing Page with CSS & HTML.Responsive
-Mobile first .
+Desktop first .
 
 
 ## Screenshots
@@ -13,9 +13,9 @@ Mobile first .
 ## Note - Keep in mind
 REMEMBER THAT IF YOUR LAYOUT IS 
 
-DESKTOP FIRST: IN MEDIA QUERIES GO "max-width" ">"
+DESKTOP FIRST: IN MEDIA QUERIES GO "max-width" ">="
 
-MOBILE FIRST: IN MEDIA QUERIES GO "min-width"  "<"
+MOBILE FIRST: IN MEDIA QUERIES GO "min-width"  "=<"
 
 
 
