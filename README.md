@@ -5,7 +5,7 @@ Mobile first .
 
 
 ## Screenshots
-![App Screenshot](creenshot/SCR-20240328-nywp.png)
+![App Screenshot](screenshot/SCR-20240328-oecv.png)
 
 ## Demo
 [https://lpphoto2024.netlify.app/](https://loginlandingpage.netlify.app/)
